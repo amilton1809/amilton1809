@@ -1,5 +1,5 @@
 - #Olá 👋
-- 🌱 Atualmente estou aprendendo e me aprofundando em tudo relacionado a JavaScript.
+- 🌱 Atualmente estou me aprofundando em tudo relacionado a JavaScript.
 - 🌱 Estou procurando colaborar em projetos de código aberto relacionado à biblioteca React.
 - 🌱 Estou procurando ajuda para melhor entendimento sobre qualquer assunto relacionado a programação.
 <!---

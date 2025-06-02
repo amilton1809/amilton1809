@@ -1,5 +1,5 @@
 ## Olá👋, Me chamo José Amilton
-- 🌱 Atualmente estou me aprofundando em tudo relacionado a JavaScript.
+- 🌱 Atualmente estou me aprofundando em tudo relacionado a Javascript.
 - 🌱 Estou procurando colaborar em projetos de código aberto relacionado à biblioteca React e Framework Next.
 - 🌱 Estou procurando ajuda para melhor entendimento sobre qualquer assunto relacionado a programação.
 

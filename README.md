@@ -1,5 +1,5 @@
-### Olá👋, Me chamo José Amilton da silva
-- 🌱 Atualmente estou me aprofundando em tudo relacionado a JavaScript.
+## Olá👋, Me chamo José Amilton da silva
+- 🌱 Atualmente estou me aprofundando em tudo relacionado a JavaScript. .
 - 🌱 Estou procurando colaborar em projetos de código aberto relacionado à biblioteca React e FrameWork Next.
 - 🌱 Estou procurando ajuda para melhor entendimento sobre qualquer assunto relacionado a programação.
 
